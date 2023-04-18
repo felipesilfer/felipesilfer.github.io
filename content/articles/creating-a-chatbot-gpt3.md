@@ -5,7 +5,7 @@ date: 2023-04-16T00:33:47-03:00
 image: "/images/articles/creating-a-chatbot-gpt3/gpt-3-thumb.png"
 ---
 
-# Criando um Chatbot com GPT-3
+![](/images/articles/creating-a-chatbot-gpt3/gpt-3-thumb.png#center "OpenAI GPT-3")
 
 ## Motivação
 Em 2022, a OpenAI lançou o chatbot ChatGPT, que é baseado no modelo de linguagem GPT-3.5, uma versão aprimorada do GPT-3. 
