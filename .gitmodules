@@ -1,0 +1,3 @@
+[submodule "themes/lisrael"]
+	path = themes/lisrael
+	url = https://github.com/felipesilfer/hugo-theme-lisrael.git
