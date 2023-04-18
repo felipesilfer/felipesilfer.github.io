@@ -10,12 +10,12 @@ disqusShortname: felipesilfer-github-io
 
 menu:
     main:
-        - name: Contato
-          url: /contact/
-          weight: 30
         - name: Artigos
           url: /articles/
           weight: 20
+#        - name: Contato
+#          url: /contact/
+#          weight: 30
 #        - name: Projetos
 #          url: /projects/
 #          weight: 15
