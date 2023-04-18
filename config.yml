@@ -48,14 +48,15 @@ params:
         title: Olá, eu sou o Felipe 👋
         description: |
 
-          Sou servidor público na UFF e estudante de ciência de dados. 
+          Trabalho na [UFF](https://www.uff.br/) 🧑🏽‍💻
+          Estudo de Ciência de Dados 🎲 
         
         imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: Não clique!
+            - name: Não clique! 😝
               url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     mainSections:
       - articles

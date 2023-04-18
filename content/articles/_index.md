@@ -2,4 +2,4 @@
 title: Artigos
 ---
 
-Conteúdos sobre tecnoligia, carreira, tutoriais, nerdices, e qualquer coisa que possa achar útil compartilhar. Fique à vontade! ☕💡
+Conteúdos sobre tecnologia, carreira, tutoriais, nerdices, e qualquer coisa que possa achar útil compartilhar. Fique à vontade! ☕💡
